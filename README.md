@@ -15,5 +15,5 @@ npm start
  ```
  **Execute para iniciar testes:**
  ```javascript
-npm start
+npm test
  ```
